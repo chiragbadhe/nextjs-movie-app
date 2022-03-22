@@ -33,7 +33,7 @@ const contact = () => {
   };
 
   return (
-    <div className="text-center mt-20 text-white min-h-screen">
+    <div className="text-center mt-20 text-white h-screen">
       <Meta title="Contact Us" />
       <h1 className="text-4xl font-bold mb-[30px] underline decoration-green-500">
         Contact US
